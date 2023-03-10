@@ -10,7 +10,7 @@ Note for builders:
 
 
 
-HOW TO AUTHORIZE
+How to Authorize:
 
 1. Select Authorize and proceed to pair your account
 2. Wait for the 'Sync is complete' notification and choose OK to save 
@@ -19,45 +19,39 @@ HOW TO AUTHORIZE
 
 
 
-AUTHORIZE (script.module.myaccts)
 
-Real-Debrid
-RunScript(script.module.myaccts, action=realdebridAuth)
+AUTHORIZE 
 
-Premiumize
-RunScript(script.module.myaccts, action=premiumizeAuth)
+Real-Debrid - RunScript(script.module.myaccts, action=realdebridAuth)
 
-AllDebrid
-RunScript(script.module.myaccts, action=alldebridAuth)
+Premiumize - RunScript(script.module.myaccts, action=premiumizeAuth)
+
+AllDebrid - RunScript(script.module.myaccts, action=alldebridAuth)
 
 
 
-SYNC ADDITIONAL ADDONS (script.module.myaccts)
 
-Real-Debrid
-RunScript(script.module.myaccts, action=realdebridSync)
+SYNC ADDITIONAL ADDONS
 
-Premiumize
-RunScript(script.module.myaccts, action=premiumizeSync)
+Real-Debrid - RunScript(script.module.myaccts, action=realdebridSync)
 
-AllDebrid
-RunScript(script.module.myaccts, action=alldebridSync)
+Premiumize - RunScript(script.module.myaccts, action=premiumizeSync)
+
+AllDebrid - RunScript(script.module.myaccts, action=alldebridSync)
 
 Sync Addons:
 If you decide to install additional supported add-ons you can sync them to your debrid account with one click!
 
 
 
-VIEW/MANAGE DEBRID DATA (script.module.myauth)
 
-Real-Debrid
-ActivateWindow(10001,plugin://script.module.myauth/?mode=realdebrid,return)
+VIEW/MANAGE DEBRID DATA
 
-Premiumize
-ActivateWindow(10001,plugin://script.module.myauth/?mode=premiumize,return)
+Real-Debrid - ActivateWindow(10001,plugin://script.module.myauth/?mode=realdebrid,return)
 
-AllDebrid
-ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)
+Premiumize - ActivateWindow(10001,plugin://script.module.myauth/?mode=premiumize,return)
+
+AllDebrid - ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)
 
 View/Manage Debrid Data:
 This feature allows the user to see what addons are currently authorized and provides a 1-click option to revoke all authorizations.
