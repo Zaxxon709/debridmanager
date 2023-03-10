@@ -4,9 +4,9 @@
 - Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exsists for that addon.
 - If both of these checks are true all debrid data is then retrieved from Debrid Manager and applied to all the supported addons.
 
-### Note for users:
-- For Debrid Manager to function correctly you need to ensure the directories containing your installed addons settings.xml are present in the addon_data directory.
-- The reason for this is that some addons do not create the settings.xml after installation. The user first has to open the addons settings menu for it to be created. If it's not present Debrid Manager simply does nothing and moves on to the next addon.
+### Note for users/builders:
+- For Debrid Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory.
+- Some addons do not create the settings.xml after installation. To create it the user first has to open the addons settings menu and then choose 'ok' to save and the file is then created. If it's not present Debrid Manager simply does nothing and moves on to the next addon. So make sure to add these to your build.
 
 
 
