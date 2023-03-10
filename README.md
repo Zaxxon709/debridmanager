@@ -29,7 +29,7 @@ RunScript(script.module.myaccts, action=realdebridAuth)</p>
 RunScript(script.module.myaccts, action=premiumizeAuth)</p>
 
 <p>AllDebrid<br>
-RunScript(script.module.myaccts, action=alldebridAuth)</p>
+RunScript(script.module.myaccts, action=alldebridAuth)</p><br>
 
 
 
@@ -37,17 +37,17 @@ RunScript(script.module.myaccts, action=alldebridAuth)</p>
 ### Sync Additional Addons:
 
 <p>Real-Debrid<br>
-RunScript(script.module.myaccts, action=realdebridSync)</p><br>
+RunScript(script.module.myaccts, action=realdebridSync)</p>
 
 <p>Premiumize<br>
-RunScript(script.module.myaccts, action=premiumizeSync)</p><br>
+RunScript(script.module.myaccts, action=premiumizeSync)</p>
 
 <p>AllDebrid<br>
-RunScript(script.module.myaccts, action=alldebridSync)</p><br>
+RunScript(script.module.myaccts, action=alldebridSync)</p>
 
 
 Sync Addons:
-If you decide to install additional supported add-ons you can sync them to your debrid account with one click!
+If you decide to install additional supported add-ons you can sync them to your debrid account with one click!<br>
 
 
 
@@ -55,13 +55,13 @@ If you decide to install additional supported add-ons you can sync them to your 
 ### View/Manage Debrid Data:
 
 <p>Real-Debrid<br>
-ActivateWindow(10001,plugin://script.module.myauth/?mode=realdebrid,return)</p><br>
+ActivateWindow(10001,plugin://script.module.myauth/?mode=realdebrid,return)</p>
 
 <p>Premiumize<br>
-ActivateWindow(10001,plugin://script.module.myauth/?mode=premiumize,return)</p><br>
+ActivateWindow(10001,plugin://script.module.myauth/?mode=premiumize,return)</p>
 
 <p>AllDebrid<br>
-ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p><br>
+ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p>
 
 
 View/Manage Debrid Data:
