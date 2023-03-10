@@ -43,11 +43,11 @@ RunScript(script.module.myaccts, action=realdebridSync)</p>
 RunScript(script.module.myaccts, action=premiumizeSync)</p>
 
 <p>AllDebrid<br>
-RunScript(script.module.myaccts, action=alldebridSync)</p>
+RunScript(script.module.myaccts, action=alldebridSync)
 
 
 Sync Addons:
-If you decide to install additional supported add-ons you can sync them to your debrid account with one click!<br>
+If you decide to install additional supported add-ons you can sync them to your debrid account with one click!</p><br>
 
 
 
