@@ -6,7 +6,7 @@
 
 ### Note for users/builders:
 - For Debrid Manager to function correctly you need to ensure the directories containing the settings.xml for each supported addon are present in the addon_data directory.
-- Some addons do not create the settings.xml after installation. To create it the user first has to open the addons settings menu and then choose 'ok' to save and the file is then created. If it's not present Debrid Manager simply does nothing and moves on to the next addon. So make sure to add these to your build.
+- Some addons do not create the settings.xml after installation. To create it the user first has to open the addon settings menu and then choose 'ok' for the file to be created. If it's not present Debrid Manager simply does nothing and moves on to the next addon. So make sure to add these to your build.
 
 
 
