@@ -22,7 +22,8 @@
 
 ### Authorize:
 <ul>
-<p>Real-Debrid  -  RunScript(script.module.myaccts, action=realdebridAuth)</p><br>
+<p>Real-Debrid<br>
+RunScript(script.module.myaccts, action=realdebridAuth)</p><br>
 
 Premiumize
 
