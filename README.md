@@ -43,11 +43,11 @@ RunScript(script.module.myaccts, action=realdebridSync)</p>
 RunScript(script.module.myaccts, action=premiumizeSync)</p>
 
 <p>AllDebrid<br>
-RunScript(script.module.myaccts, action=alldebridSync)
+RunScript(script.module.myaccts, action=alldebridSync)</p>
 
 
 Sync Addons:
-If you decide to install additional supported add-ons you can sync them to your debrid account with one click!</p><br>
+If you decide to install additional supported add-ons you can sync them to your debrid account with one click!<br>
 
 
 
@@ -65,4 +65,25 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p>
 
 
 View/Manage Debrid Data:
-This allows the user to see what addons are currently authorized and provides a 1-click option to revoke all authorizations.
+This allows the user to see what addons are currently authorized and provides a 1-click option to revoke all authorizations.<br>
+
+
+
+### Supported Addons:
+
+1.  Seren<br>                   
+2.  Ezra<br>                    
+3.  Fen<br>                     
+4.  Umbrella<br>             
+5.  Shadow<br>               
+6.  Ghost<br>                  
+7.  Genocide<br>             
+8.  Chain Reaction<br> 
+9.  Twisted<br>
+10. Base19<br>
+11. Magic Dragon<br>
+12. Asgard<br>
+13. M.E.T.V<br>
+14. Premiumizer<br>
+15. My Accounts<br>
+16. ResolveURL
