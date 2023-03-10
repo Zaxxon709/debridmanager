@@ -12,19 +12,23 @@
 
 ### How to Authorize:
 
-1. Select Authorize and proceed to pair your account
-2. Wait for the 'Sync is complete' notification and choose OK to save 
-3. All supported add-ons included with the build are now authorized
-4. You can now exit and start streaming! 
+- Select Authorize and proceed to pair your account
+- Wait for the 'Sync is complete' notification and choose OK to save 
+- All supported add-ons included with the build are now authorized
+- You can now exit and start streaming! 
 
 
 
 
 ### Authorize:
-
-Real-Debrid - RunScript(script.module.myaccts, action=realdebridAuth)
-Premiumize - RunScript(script.module.myaccts, action=premiumizeAuth)
-AllDebrid - RunScript(script.module.myaccts, action=alldebridAuth)
+<ul>
+Real-Debrid
+RunScript(script.module.myaccts, action=realdebridAuth)
+Premiumize
+RunScript(script.module.myaccts, action=premiumizeAuth)
+AllDebrid
+RunScript(script.module.myaccts, action=alldebridAuth)
+</ul>
 
 
 
