@@ -1,7 +1,7 @@
 # Debrid Manager
 
 ### How the addon works:
-- Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exsists for that addon.
+- Once authorization is complete a check is done for each supported addon to confirm if the addon is installed and if settings.xml exists for that addon.
 - If both of these checks are true all debrid data is then retrieved from Debrid Manager and applied to all the supported addons.
 
 ### Note for users/builders:
