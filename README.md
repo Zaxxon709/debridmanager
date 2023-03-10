@@ -65,4 +65,4 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p>
 
 
 View/Manage Debrid Data:
-This feature allows the user to see what addons are currently authorized and provides a 1-click option to revoke all authorizations.
+This allows the user to see what addons are currently authorized and provides a 1-click option to revoke all authorizations.
