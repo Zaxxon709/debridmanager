@@ -23,13 +23,13 @@
 ### Authorize:
 
 <p>Real-Debrid<br>
-RunScript(script.module.myaccts, action=realdebridAuth)</p><br>
+RunScript(script.module.myaccts, action=realdebridAuth)</p>
 
 <p>Premiumize<br>
-RunScript(script.module.myaccts, action=premiumizeAuth)</p><br>
+RunScript(script.module.myaccts, action=premiumizeAuth)</p>
 
 <p>AllDebrid<br>
-RunScript(script.module.myaccts, action=alldebridAuth)</p><br>
+RunScript(script.module.myaccts, action=alldebridAuth)</p>
 
 
 
