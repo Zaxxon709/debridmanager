@@ -22,12 +22,17 @@
 
 ### Authorize:
 <ul>
-Real-Debrid\
-RunScript(script.module.myaccts, action=realdebridAuth)\
-Premiumize\
-RunScript(script.module.myaccts, action=premiumizeAuth)\
-AllDebrid\
-RunScript(script.module.myaccts, action=alldebridAuth)\
+Real-Debrid
+##
+RunScript(script.module.myaccts, action=realdebridAuth)
+##
+Premiumize
+##
+RunScript(script.module.myaccts, action=premiumizeAuth)
+##
+AllDebrid
+##
+RunScript(script.module.myaccts, action=alldebridAuth)
 </ul>
 
 
