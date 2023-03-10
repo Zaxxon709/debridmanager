@@ -11,12 +11,12 @@
 
 
 ### How to Authorize:
-
-<p>- Select Authorize and proceed to pair your account<br>
-- Wait for the 'Sync is complete' notification and choose OK to save<br> 
-- All supported add-ons included with the build are now authorized<br>
-- You can now exit and start streaming!</p><br>
-
+<ul>
+    <li>Select Authorize and proceed to pair your account</li><br>
+    <li>Wait for the 'Sync is complete' notification and choose OK to save</li><br> 
+    <li>All supported add-ons included with the build are now authorized</li><br>
+    <li>You can now exit and start streaming!</li><br>
+</ul>
 
 
 
