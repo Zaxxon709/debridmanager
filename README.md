@@ -20,23 +20,19 @@ How to Authorize:
 
 
 
-AUTHORIZE 
+Authorize Commands:
 
 Real-Debrid - RunScript(script.module.myaccts, action=realdebridAuth)
-
 Premiumize - RunScript(script.module.myaccts, action=premiumizeAuth)
-
 AllDebrid - RunScript(script.module.myaccts, action=alldebridAuth)
 
 
 
 
-SYNC ADDITIONAL ADDONS
+Sync Additional Addons:
 
 Real-Debrid - RunScript(script.module.myaccts, action=realdebridSync)
-
 Premiumize - RunScript(script.module.myaccts, action=premiumizeSync)
-
 AllDebrid - RunScript(script.module.myaccts, action=alldebridSync)
 
 Sync Addons:
@@ -45,12 +41,10 @@ If you decide to install additional supported add-ons you can sync them to your 
 
 
 
-VIEW/MANAGE DEBRID DATA
+View/Manage Debrid Data:
 
 Real-Debrid - ActivateWindow(10001,plugin://script.module.myauth/?mode=realdebrid,return)
-
 Premiumize - ActivateWindow(10001,plugin://script.module.myauth/?mode=premiumize,return)
-
 AllDebrid - ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)
 
 View/Manage Debrid Data:
