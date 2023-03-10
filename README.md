@@ -47,7 +47,7 @@ RunScript(script.module.myaccts, action=alldebridSync)</p>
 
 
 Sync Addons:
-If you decide to install additional supported add-ons you can sync them to your debrid account with one click!<br>
+If you decide to install additional supported add-ons you can sync them to your debrid account with one click!<br><br>
 
 
 
@@ -65,7 +65,7 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p>
 
 
 View/Manage Debrid Data:
-This allows the user to see what addons are currently authorized and provides a 1-click option to revoke all authorizations.<br>
+This allows the user to see what addons are currently authorized and provides a 1-click option to revoke all authorizations.<br><br>
 
 
 
