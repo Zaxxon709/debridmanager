@@ -14,8 +14,7 @@
 <ul>
     <li>Select Authorize and proceed to pair your account</li>
     <li>Wait for the 'Sync is complete' notification and choose OK to exit</li>
-    <li>All supported add-ons included are now authorized</li>
-    <li>You can now exit and start streaming!</li><br>
+    <li>All supported add-ons included are now authorized</li><br>
 </ul>
 
 
