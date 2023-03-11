@@ -82,5 +82,6 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p><b
 12. Asgard<br>
 13. M.E.T.V<br>
 14. Premiumizer<br>
-15. My Accounts<br>
-16. ResolveURL
+15. Realizer<br>
+16. My Accounts<br>
+17. ResolveURL
