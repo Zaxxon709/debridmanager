@@ -34,7 +34,9 @@ RunScript(script.module.myaccts, action=alldebridAuth)</p><br>
 
 
 
-### Sync Additional Addons:
+### Sync Additional Addons:<br>
+
+- If you decide to install additional supported add-ons you can sync them to your debrid account with one click!
 
 <p>Real-Debrid<br>
 RunScript(script.module.myaccts, action=realdebridSync)</p>
@@ -43,16 +45,14 @@ RunScript(script.module.myaccts, action=realdebridSync)</p>
 RunScript(script.module.myaccts, action=premiumizeSync)</p>
 
 <p>AllDebrid<br>
-RunScript(script.module.myaccts, action=alldebridSync)</p>
-
-
-Sync Addons:
-If you decide to install additional supported add-ons you can sync them to your debrid account with one click!<br><br>
+RunScript(script.module.myaccts, action=alldebridSync)</p><br><br>
 
 
 
 
-### View/Manage Debrid Data:
+### View/Manage Debrid Data:<br>
+
+- This allows the user to see what addons are currently authorized and provides a 1-click option to revoke all authorizations.
 
 <p>Real-Debrid<br>
 ActivateWindow(10001,plugin://script.module.myauth/?mode=realdebrid,return)</p>
@@ -61,11 +61,8 @@ ActivateWindow(10001,plugin://script.module.myauth/?mode=realdebrid,return)</p>
 ActivateWindow(10001,plugin://script.module.myauth/?mode=premiumize,return)</p>
 
 <p>AllDebrid<br>
-ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p>
+ActivateWindow(10001,plugin://script.module.myauth/?mode=alldebrid,return)</p><br><br>
 
-
-View/Manage Debrid Data:
-This allows the user to see what addons are currently authorized and provides a 1-click option to revoke all authorizations.<br><br>
 
 
 
