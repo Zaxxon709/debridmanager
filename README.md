@@ -12,9 +12,10 @@
 
 ### How to Authorize:
 <ul>
-    <li>Select Authorize and proceed to pair your account</li>
-    <li>Wait for the 'Sync is complete' notification and choose OK to exit</li>
-    <li>All supported add-ons included are now authorized</li><br>
+    <li>Open Debrid Manager and navigate to the debrid serive of your choice</li>
+    <li>Select 'Authorize' and proceed to pair your account</li>
+    <li>Wait for the 'Sync is complete' notification and choose 'OK' to exit</li>
+    <li>All supported add-ons are now authorized</li><br>
 </ul>
 
 
@@ -35,7 +36,7 @@ RunScript(script.module.myaccts, action=alldebridAuth)</p><br>
 
 ### Sync Additional Addons:<br>
 
-- If you decide to install additional supported add-ons you can sync them to your debrid account with one click!
+- If you decide to install additional supported add-ons you can sync them to your debrid account with 1-click!
 
 <p>Real-Debrid<br>
 RunScript(script.module.myaccts, action=realdebridSync)</p>
