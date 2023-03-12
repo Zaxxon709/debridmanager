@@ -12,7 +12,7 @@
 
 ### How to Authorize:
 <ul>
-    <li>Open Debrid Manager and navigate to the debrid serive of your choice</li>
+    <li>Open Debrid Manager and navigate to the debrid service of your choice</li>
     <li>Select 'Authorize' and proceed to pair your account</li>
     <li>Wait for the 'Sync is complete' notification and choose 'OK' to exit</li>
     <li>All supported add-ons are now authorized</li><br>
