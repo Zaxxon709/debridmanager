@@ -20,7 +20,7 @@
 
 
 
-### Authorize:
+### Authorize Built-in Commands:
 
 <p>Real-Debrid<br>
 RunScript(script.module.myaccts, action=realdebridAuth)</p>
